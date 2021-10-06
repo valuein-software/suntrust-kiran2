@@ -1,0 +1,7 @@
+Suntrust_UMA
+git status
+creating a text file
+check git status
+git add .
+git commit -m "Edited the file for commit"
+git push origin main

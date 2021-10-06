@@ -1,0 +1,15 @@
+#!bin/bash
+apt-get install git
+Kiran
+Ravinder
+test file sample of multiple dev team
+all good
+
+Suntrust_UMA
+git status
+creating a text file
+check git status
+git add .
+git commit -m "Edited the file for commit"
+git push origin main
+updated this branch and waiting for merge
